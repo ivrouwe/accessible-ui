@@ -9,7 +9,7 @@ A library of accessible UI patterns. Uses `data-*` attributes to build UI elemen
 
 ### To turn the collapsible functionality on (or off) at a particular breakpoint
 
-1. Add a `data-accessible-breakpoint` attribute to the element. Give it an `em` (or `px`) value that corresponds to the viewport width at which the UI should change change.
+1. Add a `data-accessible-breakpoint` attribute to the element. Give it an `em` (or `px`) value that corresponds to the viewport width at which the UI should change.
 2. Add a `data-accessible-breakpoint-switches-ui` attribute to the element, and specifify whether the breakpoint switches the UI `on` or `off`.
 
 ## Toolbars
